@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+#By @seguridadblanca
 import urllib2
 import time
 
